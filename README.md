@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# IMP [https://www.themoviedb.org/]  for API and KEY..............
+ # working  screeshots
+   ![sc-1]("C:\Users\Omkar singh\Pictures\Screenshots\Screenshot (911).png")
+
+   <img src="C:\Users\Omkar singh\Pictures\Screenshots\Screenshot (910).png" alt="SC-2" width="300"/>
+
 
 ## Available Scripts
 
